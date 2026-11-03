@@ -8,14 +8,20 @@
 
 ---
 
-### 🚧 In the works
+### 🛠️ On the workbench
 
-Turning the things I build and troubleshoot into notes worth sharing.
+**[Support portal · build notes](./notes/support-portal.md)**  
+A look at what I’m building, the decisions behind it, and lessons from testing. *In development.*
 
-| Up next | What to expect |
+[![Support portal development dashboard with synthetic data](./assets/portal/dashboard.webp)](./notes/support-portal.md)
+
+<sub>Development UI · synthetic data · [Explore the screenshots and first build note →](./notes/support-portal.md)</sub>
+
+### 🚧 Up next
+
+| In the works | What to expect |
 | :--- | :--- |
-| **Support portal · build notes** | A project in development: design decisions, access and privacy, and lessons from testing. |
 | **Troubleshooting field notes** | Real problems, how I narrowed them down, and what fixed them. |
-| **Security lab notes** | Planned write-ups with findings and takeaways as labs are completed. |
+| **Security lab notes** | Findings and takeaways as labs are completed. |
 
-<sub>Coming as they’re ready. Small steps, documented.</sub>
+<sub>Small steps, documented.</sub>
