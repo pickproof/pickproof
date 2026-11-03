@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">pickproof</title><desc id="desc">Charcoal and gold terminal header with pixel accents. Build. Break. Fix. Repeat.</desc>
+<rect width="1200" height="300" rx="18" fill="#14181e"/>
+<rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+<path d="M40 53H1160" stroke="#30363d"/>
+<g fill="#d7af5f"><circle cx="43" cy="28" r="5"/><circle cx="62" cy="28" r="5" opacity=".55"/><circle cx="81" cy="28" r="5" opacity=".25"/></g>
+<text x="111" y="33" font-family="monospace" font-size="13" fill="#9da7b3">~/pickproof</text>
+<text x="55" y="139" font-family="monospace" font-size="25" fill="#d7af5f">&gt;_</text>
+<text x="114" y="145" font-family="monospace" font-size="59" font-weight="700" letter-spacing="-2" fill="#f0eee8">pickproof</text>
+<rect x="445" y="103" width="17" height="48" fill="#d7af5f"/>
+<text x="57" y="204" font-family="monospace" font-size="20" fill="#aab2bd">build. break. fix. repeat.</text>
+<text x="57" y="260" font-family="monospace" font-size="13" letter-spacing="3" fill="#d7af5f">IT / SECURITY / CURIOSITY</text>
+<g fill="#d7af5f"><rect x="982" y="98" width="22" height="22" opacity=".2"/><rect x="1012" y="98" width="22" height="22" opacity=".5"/><rect x="1042" y="98" width="22" height="22"/><rect x="1072" y="128" width="22" height="22" opacity=".5"/><rect x="1042" y="158" width="22" height="22" opacity=".5"/><rect x="1012" y="158" width="22" height="22" opacity=".2"/><rect x="982" y="188" width="22" height="22" opacity=".2"/><rect x="1012" y="218" width="22" height="22" opacity=".5"/><rect x="1042" y="218" width="22" height="22"/><rect x="1102" y="188" width="22" height="22" opacity=".2"/></g>
+</svg>
