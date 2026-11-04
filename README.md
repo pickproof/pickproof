@@ -10,19 +10,22 @@
 
 ### 🛠️ On the workbench
 
-**[Support portal · build notes](https://github.com/pickproof/nival-it-portal-showcase)**  
-A look at what I’m building, the decisions behind it, and lessons from testing. *In development.*
+**[Nival IT · Support Portal](https://github.com/pickproof/nival-it-portal-showcase)**  
+A project preview focused on clearer IT support, thoughtful design, and what I’m learning. *In development.*
 
 [![Support portal development dashboard with synthetic data](./assets/portal/dashboard.webp)](https://github.com/pickproof/nival-it-portal-showcase)
 
-<sub>Development UI · synthetic data · [Explore the gallery and build notes →](https://github.com/pickproof/nival-it-portal-showcase)</sub>
+<sub>Development UI · synthetic data · [Explore the project →](https://github.com/pickproof/nival-it-portal-showcase)</sub>
 
 ### 🔎 Field notes
 
-**[Windows integrity repair](./notes/windows-integrity.md)** — a short retrospective on repair, follow-up checks, and keeping conclusions scoped.
+**[Windows integrity repair](./notes/windows-integrity.md)** — repair, follow-up checks, and lessons from troubleshooting.
 
-### 🚧 Up next
+<details>
+<summary>On the horizon</summary>
 
-Security lab notes with findings and takeaways as labs are completed.
+More troubleshooting write-ups and completed security labs.
+
+</details>
 
 <sub>Small steps, documented.</sub>
