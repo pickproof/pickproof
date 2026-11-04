@@ -23,7 +23,7 @@ The DISM result supplied a different piece of information: the component-store h
 
 ## Keeping the conclusion narrow
 
-The session also involved backup-file access symptoms. A clean integrity scan did not establish that those permission or recovery issues were resolved. Likewise, these results say nothing about hardware temperatures, battery health, or overall system performance.
+The clean scan supported a conclusion about Windows integrity at that point in time. Separate hardware, performance, or file-access issues require their own investigation.
 
 **Outcome:** the recorded follow-up checks supported a clean Windows integrity result at that point in time. They did not establish that every workstation issue was fixed.
 
