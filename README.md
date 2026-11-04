@@ -13,7 +13,7 @@
 **[Nival IT · Support Portal](https://github.com/pickproof/nival-it-portal-showcase)**  
 A project preview focused on clearer IT support, thoughtful design, and what I’m learning. *In development.*
 
-[![Support portal development dashboard with synthetic data](./assets/portal/dashboard.webp)](https://github.com/pickproof/nival-it-portal-showcase)
+<a href="https://github.com/pickproof/nival-it-portal-showcase"><img src="./assets/portal/dashboard.webp" alt="Support portal development dashboard with synthetic data" width="600" /></a>
 
 <sub>Development UI · synthetic data · [Explore the project →](https://github.com/pickproof/nival-it-portal-showcase)</sub>
 
