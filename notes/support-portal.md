@@ -6,6 +6,25 @@ Getting IT help should be easy. I’m working on a portal that brings support re
 
 These notes follow the decisions behind the project: making requests understandable, keeping access appropriate, and checking that changes behave as intended.
 
+## My contribution
+
+I’m shaping this around real IT support work: what a customer needs to explain, what the person handling the request needs to see, and where privacy boundaries belong.
+
+- **Requirements:** defined separate personal and business request contexts, including the rule that managers should see appropriate organization requests while personal requests stay private.
+- **Experience review:** chose and refined the guided request flow, customer/admin navigation, mobile layouts, light/dark presentation, and readable controls.
+- **Iteration:** reviewed previews and requested changes to spacing, labels, navigation, and the client-detail experience.
+- **Delivery decisions:** set explicit review and approval boundaries around TEST work and production changes.
+
+AI assists with code, investigation, tests, and documentation. My role centers on requirements, decisions, review, and learning to explain the behavior and evidence behind the work.
+
+## Project at a glance
+
+| Problem | Approach | Evidence on this page |
+| --- | --- | --- |
+| Users may not know the technical cause of a problem. | Familiar categories and a guided request flow. | Desktop and mobile development captures. |
+| Organization access can change after a request is created. | Check current membership alongside ownership. | A documented correction and scoped TEST results. |
+| A nearby warning may not be associated with a field for assistive technology. | Connect the warning programmatically to the control. | A documented form association check and reported screen-reader announcement. |
+
 ## A look inside
 
 ![Customer dashboard with support categories](../assets/portal/dashboard.webp)
@@ -106,10 +125,6 @@ That is a bounded check: the screen-reader product and version were not recorded
 - **Troubleshooting:** separating a visible symptom from its underlying cause.
 - **Verification:** understanding the difference between a fixture capture, an automated test, and a real-session check.
 - **Documentation:** explaining the decision, its evidence, and what still needs work.
-
-## How I work on this project
-
-I direct the requirements and review the experience, using AI assistance for implementation, investigation, and testing. These notes describe the project decisions and learning.
 
 ## Coming next
 
